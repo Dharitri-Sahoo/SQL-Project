@@ -1,1 +1,1 @@
-# SQL-Project
+Analyzed music store data with SQL 
